@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "email": "user1@example.com",
+        "password": "$2y$10$e0NRh3PQX9XxS5p7nqA5ZOgKz7EoA7qIbEIKBp9vIkM5xj3J5L3fO",
+        "name": "\u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432"
+    },
+    {
+        "id": 2,
+        "email": "user2@example.com",
+        "password": "$2y$10$X9lpvGzh1.jIb4HZtrQ6UuUYVdZ9DhpmVQpkHTuBkBtKiFhEFSxU6",
+        "name": "\u041c\u0430\u0440\u0438\u044f \u041f\u0435\u0442\u0440\u043e\u0432\u0430"
+    },
+    {
+        "id": 3,
+        "email": "danpain779@gmail.com",
+        "name": "\u0410\u0440\u0442\u0451\u043c",
+        "password": "$2y$10$B3g6WVF8peyNpN3Sby0AyOb28JlOH9E4kFnDTdBYgplv2lKvKM9Em"
+    }
+]
